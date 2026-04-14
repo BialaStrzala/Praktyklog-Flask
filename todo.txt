@@ -20,3 +20,9 @@ ROUTES:
     - zmiana hasla
 - przypisywanie studentow (supervisor/admin)
 - pdf download
+
+
+- dodac role 'secretary' (odczyt wszystkich danych)
+- Mechanizm blokowania edycji po przesªaniu dokumentu do werykacji.
+- Mo»liwo±¢ dodawania uwag przez opiekunów do poszczególnych sekcji.
+- Proces wystawiania oceny ko«cowej i generowania raportu PDF
